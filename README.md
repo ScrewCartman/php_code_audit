@@ -17,7 +17,7 @@ docker
 [代码审计之旅](https://xz.aliyun.com/t/5877)  
 
 ## sql inject
-[某CMS注入分析及注入点总结] - bluecms(https://www.freebuf.com/articles/web/157827.html) 
+[某CMS注入分析及注入点总结 - bluecms](https://www.freebuf.com/articles/web/157827.html) 
 [某开源框架从注入到Getshell - semcms](https://www.freebuf.com/vuls/153668.html)  
 
 ## code excute
