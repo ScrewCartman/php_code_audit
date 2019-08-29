@@ -7,10 +7,17 @@ xampp
 docker  
 [vulstudy](https://github.com/c0ny1/vulstudy)  
 
+## 2.tools
+Seay  
+Rips  
+[CMSeek](https://github.com/Tuhinshubhra/CMSeeK)  
 
-## 2.start
+## 3.start
 
-[Sec-wiki cms search](https://www.sec-wiki.com/news/search?wd=cms)[Freebuf cms search](https://search.freebuf.com/search/?search=cms#article)  
+[Sec-wiki cms search](https://www.sec-wiki.com/news/search?wd=cms)  
+[Freebuf cms search](https://search.freebuf.com/search/?search=cms#article)  
+[PHP-Audit-Labs](https://www.freebuf.com/column/188018.html)  
+
 [PHP代码审计实战思路浅析](https://www.freebuf.com/articles/web/187244.html)  
 [代码审计实战思路之浅析PHPCMS](https://www.freebuf.com/articles/web/195737.html)  
 [CMS代码审计之emlog 6.0](https://www.freebuf.com/vuls/195351.html)  
@@ -21,10 +28,9 @@ docker
 [记对OpenSNS的一次代码审计](https://www.freebuf.com/articles/web/207208.html)  
 [代码审计| HDWiki 漏洞（一）](https://bbs.ichunqiu.com/thread-40749-1-1.html?from=sec)  
 [一次CMS源码审计与漏洞发现](https://www.freebuf.com/vuls/206888.html)  
-
+[基于ThinkPHP的2个CMS后台GetShell利用](https://www.freebuf.com/articles/web/148629.html)  
 
 [代码审计之旅](https://xz.aliyun.com/t/5877)  
-[PHP-Audit-Labs](https://www.freebuf.com/column/188018.html)  
 
 ## sql inject
 [某CMS注入分析及注入点总结 - bluecms](https://www.freebuf.com/articles/web/157827.html)  
@@ -33,6 +39,7 @@ docker
 ## code excute
 [一处代码执行引发的思考 - yccms](https://www.freebuf.com/vuls/183658.html)  
 [小众CMS vaeThink v1.0.1 代码执行漏洞挖掘分析](https://www.freebuf.com/vuls/203562.html)  
+[漏洞预警 | 海洋CMS（SEACMS）0day漏洞预警](https://www.freebuf.com/vuls/150042.html)  
 
 ## xss
 [CatFish CMS V4.8.75最新版XSS漏洞审计](https://www.freebuf.com/vuls/203232.html)  
@@ -48,3 +55,6 @@ docker
 
 ## bug bounty
 [挖洞经验 | 热门航空网站上的SQLi和XSS漏洞](https://www.freebuf.com/articles/web/146276.html)  
+
+## src
+[SRC-experience](https://github.com/Wh0ale/SRC-experience)  
